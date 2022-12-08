@@ -5,7 +5,7 @@ Project 06 for BL-MSCH-C220 at Indiana University, created December 8, 2022.
 A basic 3D RPG
 
 ## Implementation
-Third-person animated character, keyboard and mouse control, camera that follows the character's movement, interactable terrain and objects, PBR textures, NPCs, dialogue, hand-held usable weapon, and a scoring system
+Third-person animated character, keyboard and mouse control, camera that follows the character's movement, interactable terrain and objects, PBR textures, an NPC, an enemy with basic AI, dialogue, a handheld usable weapon, and a scoring system
 
 ## References
 
