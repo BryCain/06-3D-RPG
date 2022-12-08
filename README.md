@@ -1,13 +1,34 @@
-# 3D-Character
+# 3D RPG
 
-An animated 3D character that can be used in the 3D-RPG project
+Project 06 for BL-MSCH-C220 at Indiana University, created December 8, 2022.
 
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
+A basic 3D RPG
 
 ## Implementation
+Third-person animated character, keyboard and mouse control, camera that follows the character's movement, interactable terrain and objects, PBR textures, NPCs, dialogue, hand-held usable weapon, and a scoring system
 
-Created in Blender 3.1.2 and Godot 3.5
+## References
 
-## Created By
+https://github.com/BL-MSCH-C220-F22/3D-Character
 
-Jason Francis
+https://kenney.itch.io/kenney-character-assets
+
+https://www.patreon.com/posts/blender-export-16916038
+
+https://kenney.nl/assets/blaster-kit
+
+https://kenney.nl/assets/space-kit
+
+https://ambientcg.com/view?id=Plastic010
+
+https://ambientcg.com/view?id=Metal032
+
+https://ambientcg.com/view?id=Metal033
+
+https://ambientcg.com/view?id=Metal034
+
+## Future Development
+None
+
+## Created by
+Bryce Cain
